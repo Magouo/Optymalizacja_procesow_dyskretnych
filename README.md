@@ -30,7 +30,7 @@ W celu kompleksowego porównania algorytmów, przeprowadzono serię testów na r
 
 ### Wyniki testów
 
-Poniżej przedstawiono zbiorczą tabelę wyników uzyskaną podczas testów.
+Poniżej przedstawiono zbiorczą tabelę wyników uzyskaną podczas testów. Każda ilość maszyn była testowana 10-krotnie.
 
 | # Maszyn | Cmax(P)    | Cmax(N)    | Cmax(Opt)  | T(P)[ms]   | T(N)[ms]   | T(BF)[ms]    | Błąd(P) [%]  | Błąd(N) [%]  |
 | :------- | :--------- | :--------- | :--------- | :--------- | :--------- | :----------- | :----------- | :----------- |
